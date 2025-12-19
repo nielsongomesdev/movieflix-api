@@ -19,12 +19,13 @@
     "globals": "^16.5.0",
     "jiti": "^2.6.1",
     "prettier": "3.7.4",
-    "prisma": "^7.2.0",
+    "prisma": "^4.13.0",
     "tsx": "^4.21.0",
     "typescript": "^5.9.3",
     "typescript-eslint": "^8.50.0"
   },
   "dependencies": {
+    "@prisma/client": "^4.13.0",
     "express": "^5.2.1"
   }
 }
